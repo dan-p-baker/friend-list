@@ -1,2 +1,2 @@
 # friend-list
-Simple friend list app created in React
+Simple friend list app written in React
